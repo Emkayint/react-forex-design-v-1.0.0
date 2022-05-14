@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-forex-design-v-1.0.0/static/css/main.073c9b0a.css",
+    "main.js": "/react-forex-design-v-1.0.0/static/js/main.bf18e823.js",
+    "static/js/787.49616aef.chunk.js": "/react-forex-design-v-1.0.0/static/js/787.49616aef.chunk.js",
+    "index.html": "/react-forex-design-v-1.0.0/index.html",
+    "main.073c9b0a.css.map": "/react-forex-design-v-1.0.0/static/css/main.073c9b0a.css.map",
+    "main.bf18e823.js.map": "/react-forex-design-v-1.0.0/static/js/main.bf18e823.js.map",
+    "787.49616aef.chunk.js.map": "/react-forex-design-v-1.0.0/static/js/787.49616aef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bf18e823.js"
+  ]
+}
